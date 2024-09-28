@@ -19,6 +19,9 @@ linkedin.com
 ###
 
 <div align="left">
+  https://cdn.jsdelivr.net/npm/@programming-languages-logos/python@0.0.0/+esm
+  <img src="https://cdn.jsdelivr.net/npm/@programming-languages-logos/python@0.0.0/+esm" height="40" alt="react logo"  />
+  <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="40" alt="react logo"  />
   <img width="12" />
   <img src="https://cdn.simpleicons.org/nodedotjs/339933" height="40" alt="nodejs logo"  />
