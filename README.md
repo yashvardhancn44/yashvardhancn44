@@ -9,10 +9,8 @@ I'm always excited to explore new technologies and continuously improve my skill
 
 **Feel free to check out my repositories and Let's connect and build something amazing together!✨**
 ### [LinkedIn Profile](https://www.linkedin.com/in/yashvardhancn/)
-[linkedin.com](https://www.linkedin.com/in/yashvardhancn/)
-
 ### [Portfolio Website](https://yashvardhan-portfolio.vercel.app/)
-[Portfolio Website](https://yashvardhan-portfolio.vercel.app/)
+
 
 ##  My Toolkit🛠 
 
