@@ -5,8 +5,13 @@
 
 During my journey as a software engineer at Cisco, I developed a Kafka consumer to streamline the retrieval of over 1 million data records, optimizing processes and saving both time and resources. Additionally, I created a React-based frontend dashboard for real-time analytics, solidifying my passion for building scalable, efficient solutions. 🚀
 
-I'm always excited to explore new technologies and continuously improve my skill set. When I'm not coding, you might find me diving into research projects or playing basketball 🏀. Feel free to check out my repositories and let’s connect! ✨
+I'm always excited to explore new technologies and continuously improve my skill set. When I'm not coding, you might find me diving into research projects or playing basketball 🏀. 
+Feel free to check out my repositories and Let's connect and build something amazing together!✨
+### LinkedIn Profile
+linkedin.com
 
+### Portfolio Website
+linkedin.com
 
 
 ## 🛠️ My Toolkit
