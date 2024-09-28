@@ -8,11 +8,11 @@ During my journey as a software engineer at Cisco, I developed a Kafka consumer 
 I'm always excited to explore new technologies and continuously improve my skill set. When I'm not coding, you might find me diving into research projects or playing basketball 🏀. 
 
 **Feel free to check out my repositories and Let's connect and build something amazing together!✨**
-### LinkedIn Profile
+### [LinkedIn Profile](https://www.linkedin.com/in/yashvardhancn/)
 [linkedin.com](https://www.linkedin.com/in/yashvardhancn/)
 
-### Portfolio Website
-[linkedin.com](https://yashvardhan-portfolio.vercel.app/)
+### [Portfolio Website](https://yashvardhan-portfolio.vercel.app/)
+[Portfolio Website](https://yashvardhan-portfolio.vercel.app/)
 
 ##  My Toolkit🛠 
 
