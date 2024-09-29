@@ -14,6 +14,28 @@ I'm always excited to explore new technologies and continuously improve my skill
 
 
 ##  My Toolkit🛠 
+
+- 💻 **Languages**: JavaScript, Python, SQL, Typescript
+- 🖥️ **Frontend**: React, Next.js, HTML5, CSS3, Jest, Jasmine
+- 🛠️ **Backend**: Node.js, Express.js, Python Flask, NestJs
+- ⚙️ **Databases**: MongoDB, PostgreSQL
+- 🖥️ **Cloud**: AWS
+- 📊 **Data Engineering**: Kafka, PostgreSQL
+- 🧠 **A.I. and M.L.**: OpenCV, Keras-Tensorflow, Scikit-learn
+- 🧰 **Tools**: Git,VS Code, GitHub, Postman, Jest
+
+
+## 🌟 Projects in Focus
+- [**E-commerce Website**](https://github.com/yashvardhancn44/Ecommerce-website) - line 1
+  - Tech:
+
+## 🎓 Certifications
+- **AWS Cloud Practitioner Essentials** – Coursera-AWS
+- **Python Certification** – OpenEDG Python Institute
+- **CCNA Certification** – CISCO
+- **C++ & C Language** – C++ Institute
+
+---
 <div align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" alt="javascript logo" />
   <img width="12" />
@@ -63,28 +85,6 @@ I'm always excited to explore new technologies and continuously improve my skill
   <img width="12" />
   <img src="https://skillicons.dev/icons?i=postman" height="40" alt="postman logo" />
 </div>
-
-- 💻 **Languages**: JavaScript, Python, SQL, Typescript
-- 🖥️ **Frontend**: React, Next.js, HTML5, CSS3, Jest, Jasmine
-- 🛠️ **Backend**: Node.js, Express.js, Python Flask, NestJs
-- ⚙️ **Databases**: MongoDB, PostgreSQL
-- 🖥️ **Cloud**: AWS
-- 📊 **Data Engineering**: Kafka, PostgreSQL
-- 🧠 **A.I. and M.L.**: OpenCV, Keras-Tensorflow, Scikit-learn
-- 🧰 **Tools**: Git,VS Code, GitHub, Postman, Jest
-
-
-## 🌟 Projects in Focus
-- [**E-commerce Website**](https://github.com/yashvardhancn44/Ecommerce-website) - line 1
-  - Tech:
-
-## 🎓 Certifications
-- **AWS Cloud Practitioner Essentials** – Coursera-AWS
-- **Python Certification** – OpenEDG Python Institute
-- **CCNA Certification** – CISCO
-- **C++ & C Language** – C++ Institute
-
----
 
 Thank you for visiting my GitHub! Let's build something amazing together. Feel free to explore my projects, contribute, or reach out for collaboration.
 
