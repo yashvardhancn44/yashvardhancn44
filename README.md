@@ -23,8 +23,6 @@ I'm always excited to explore new technologies and continuously improve my skill
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="40" alt="react logo" />
   <img width="12" />
-  <img src="https://cdn.simpleicons.org/nextdotjs/000000" height="40" alt="nextjs logo" />
-  <img width="12" />
   <img src="https://cdn.simpleicons.org/nextdotjs/FFFFFF" height="40" alt="nextjs logo" />
   <img width="12" />
   <img src="https://cdn.simpleicons.org/html5/E34F26" height="40" alt="html5 logo" />
@@ -39,8 +37,6 @@ I'm always excited to explore new technologies and continuously improve my skill
   <img width="12" />
   <img src="https://skillicons.dev/icons?i=express" height="40" alt="express logo" />
   <img width="12" />
-  <img src="https://cdn.simpleicons.org/flask/000000" height="40" alt="flask logo" />
-  <img width="12" />
   <img src="https://cdn.simpleicons.org/flask/FFFFFF" height="40" alt="flask logo" />
   <img width="12" />
   <img src="https://cdn.simpleicons.org/nestjs/E0234E" height="40" alt="nestjs logo" />
@@ -50,8 +46,6 @@ I'm always excited to explore new technologies and continuously improve my skill
   <img src="https://cdn.simpleicons.org/postgresql/4169E1" height="40" alt="postgresql logo" />
   <img width="12" />
   <img src="https://skillicons.dev/icons?i=aws" height="40" alt="aws logo" />
-  <img width="12" />
-  <img src="https://cdn.simpleicons.org/apachekafka/231F20" height="40" alt="kafka logo" />
   <img width="12" />
   <img src="https://cdn.simpleicons.org/apachekafka/FFFFFF" height="40" alt="kafka logo" />
   <img width="12" />
@@ -64,8 +58,6 @@ I'm always excited to explore new technologies and continuously improve my skill
   <img src="https://skillicons.dev/icons?i=git" height="40" alt="git logo" />
   <img width="12" />
   <img src="https://skillicons.dev/icons?i=vscode" height="40" alt="vscode logo" />
-  <img width="12" />
-  <img src="https://cdn.simpleicons.org/github/181717" height="40" alt="github logo" />
   <img width="12" />
   <img src="https://cdn.simpleicons.org/github/FFFFFF" height="40" alt="github logo" />
   <img width="12" />
