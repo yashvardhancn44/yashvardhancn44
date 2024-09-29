@@ -36,6 +36,7 @@ I'm always excited to explore new technologies and continuously improve my skill
 - **C++ & C Language** – C++ Institute
 
 ---
+Thank you for visiting my GitHub! Let's build something amazing together. Feel free to explore my projects, contribute, or reach out for collaboration.
 <div align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" alt="javascript logo" />
   <img width="12" />
@@ -85,6 +86,3 @@ I'm always excited to explore new technologies and continuously improve my skill
   <img width="12" />
   <img src="https://skillicons.dev/icons?i=postman" height="40" alt="postman logo" />
 </div>
-
-Thank you for visiting my GitHub! Let's build something amazing together. Feel free to explore my projects, contribute, or reach out for collaboration.
-
