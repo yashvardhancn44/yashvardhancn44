@@ -61,6 +61,8 @@ I'm always excited to explore new technologies and continuously improve my skill
   <img width="12" />
   <img src="https://cdn.simpleicons.org/github/181717" height="40" alt="github logo" />
   <img width="12" />
+  <img src="https://cdn.simpleicons.org/github/FFFFFF" height="40" alt="github logo" />
+  <img width="12" />
   <img src="https://skillicons.dev/icons?i=postman" height="40" alt="postman logo" />
 </div>
 
