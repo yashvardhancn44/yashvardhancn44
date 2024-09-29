@@ -25,6 +25,8 @@ I'm always excited to explore new technologies and continuously improve my skill
   <img width="12" />
   <img src="https://cdn.simpleicons.org/nextdotjs/000000" height="40" alt="nextjs logo" />
   <img width="12" />
+  <img src="https://cdn.simpleicons.org/nextdotjs/FFFFFF" height="40" alt="nextjs logo" />
+  <img width="12" />
   <img src="https://cdn.simpleicons.org/html5/E34F26" height="40" alt="html5 logo" />
   <img width="12" />
   <img src="https://cdn.simpleicons.org/css3/1572B6" height="40" alt="css3 logo" />
@@ -39,6 +41,8 @@ I'm always excited to explore new technologies and continuously improve my skill
   <img width="12" />
   <img src="https://cdn.simpleicons.org/flask/000000" height="40" alt="flask logo" />
   <img width="12" />
+  <img src="https://cdn.simpleicons.org/flask/FFFFFF" height="40" alt="flask logo" />
+  <img width="12" />
   <img src="https://cdn.simpleicons.org/nestjs/E0234E" height="40" alt="nestjs logo" />
   <img width="12" />
   <img src="https://cdn.simpleicons.org/mongodb/47A248" height="40" alt="mongodb logo" />
@@ -48,6 +52,8 @@ I'm always excited to explore new technologies and continuously improve my skill
   <img src="https://skillicons.dev/icons?i=aws" height="40" alt="aws logo" />
   <img width="12" />
   <img src="https://cdn.simpleicons.org/apachekafka/231F20" height="40" alt="kafka logo" />
+  <img width="12" />
+  <img src="https://cdn.simpleicons.org/apachekafka/FFFFFF" height="40" alt="kafka logo" />
   <img width="12" />
   <img src="https://cdn.simpleicons.org/tensorflow/FF6F00" height="40" alt="tensorflow logo" />
   <img width="12" />
