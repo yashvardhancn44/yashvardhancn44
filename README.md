@@ -15,12 +15,12 @@ I'm always excited to explore new technologies and continuously improve my skill
 
 ##  My Toolkit🛠 
 
-- 💻 **Languages**: JavaScript, Python, SQL, Typescript
-- 🖥️ **Frontend**: React, Next.js, HTML5, CSS3, Jest, Jasmine
-- 🛠️ **Backend**: Node.js, Express.js, Python Flask, NestJs
+- 💻 **Languages**: Typescript, JavaScript, Python, SQL, 
+- 🖥️ **Frontend**: ReactJS, Recharts, Redux-toolkit, HTML5, CSS3, Jest.
+- 🛠️ **Backend**: Node.js - Nest.js, Express.js; Python Flask;
 - ⚙️ **Databases**: MongoDB, PostgreSQL
 - 🖥️ **Cloud**: AWS
-- 📊 **Data Engineering**: Kafka, PostgreSQL
+- 📊 **Data Engineering**: Kafka, PostgreSQL, MongoDB
 - 🧠 **A.I. and M.L.**: OpenCV, Keras-Tensorflow, Scikit-learn
 - 🧰 **Tools**: Git,VS Code, GitHub, Postman, Jest
 
