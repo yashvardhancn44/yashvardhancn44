@@ -1,9 +1,9 @@
 # Welcome to My GitHub!
 
 ## About Me
-👋 Hi, I'm Yashvardhan! I'm a passionate software developer with experience in building dynamic full-stack web applications and real-time data systems. My core stack includes React, Node.js, Express, and MongoDB, and I have a deep interest in Kafka, Python, and PostgreSQL for data engineering. I love solving complex problems and thrive in collaborative environments where I can learn from others and contribute to impactful projects. 💻
+👋 Hi, I'm Yashvardhan! I'm a passionate software developer with experience in full-stack web, big data, machine learning, and cloud technologies. My core stack includes React, Java, Spring Boot, Python, Node.js, Kafka, Express, and MongoDB, and I have a deep interest in Kafka, Python, and PostgreSQL for data engineering. I love solving complex problems and thrive in collaborative environments where I can learn from others and contribute to impactful projects. 💻
 
-During my journey as a software engineer at Cisco, I developed a Kafka consumer to streamline the retrieval of over 1 million data records, optimizing processes and saving both time and resources. Additionally, I created a React-based frontend dashboard for real-time analytics, solidifying my passion for building scalable, efficient solutions. 🚀
+During my journey as a software engineer at Cisco, I developed a Kafka consumer to streamline the retrieval of over 1 million data records, optimizing processes and saving both time and resources. Additionally, I created a React-based frontend dashboard for real-time analytics, Worked on the backend development of a Invoice processing system using Java, Spring Boot, JPA, JDBC and PostgreSQL which handled sequential and parallel approvals of Bills, solidifying my passion for building scalable, efficient solutions. 🚀
 
 I'm always excited to explore new technologies and continuously improve my skill set. When I'm not coding, you might find me diving into research projects or playing basketball 🏀. 
 
@@ -15,12 +15,12 @@ I'm always excited to explore new technologies and continuously improve my skill
 
 ##  My Toolkit🛠 
 
-- 💻 **Languages**: Typescript, JavaScript, Python, SQL, 
+- 💻 **Languages**: Java, Typescript, JavaScript, Python, SQL, 
 - 🖥️ **Frontend**: ReactJS, Recharts, Redux-toolkit, HTML5, CSS3, Jest.
-- 🛠️ **Backend**: Node.js - Nest.js, Express.js; Python Flask;
+- 🛠️ **Backend**: Spring Boot, Node.js - Nest.js, Express.js; Python Flask;
 - ⚙️ **Databases**: MongoDB, PostgreSQL
-- 🖥️ **Cloud**: AWS
-- 📊 **Data Engineering**: Kafka, PostgreSQL, MongoDB
+- 🖥️ **Cloud**: Amazon Web Service
+- 📊 **Data Engineering**: Kafka, PostgreSQL, MongoDB, Spark
 - 🧠 **A.I. and M.L.**: OpenCV, Keras-Tensorflow, Scikit-learn
 - 🧰 **Tools**: Git,VS Code, GitHub, Postman, Jest
 
